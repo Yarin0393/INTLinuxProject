@@ -8,7 +8,7 @@ Kernel System Calls
 
 Broken Symlink
 -------------------
-<ymbolic link is being moved into the backups directory, but it still points to the old location of the backup files. To fix it run :ln -sf ../$FILENAME backups/latest-backup.obj>
+<symbolic link is being moved into the backups directory, but it still points to the old location of the backup files. To fix it run :ln -sf ../$FILENAME backups/latest-backup.obj>
 
 
 
